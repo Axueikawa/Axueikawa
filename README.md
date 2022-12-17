@@ -16,5 +16,3 @@
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
 
-![Kisuia](https://cdn.discordapp.com/attachments/908013654010626088/1053324369348284417/fc72eef274ffab1a.gif)
-
